@@ -7,4 +7,4 @@ An overview of my projects
 
 ## Games
 - [Neon SnakeTwo](https://fabricemru.github.io/NeonSnakeTwoGame/)
-- [2048](https://fabricemru.github.io/NeonSnakeTwoGame/)
+- [Schiffe versenken](https://schiffe-versenken.vercel.app/)
